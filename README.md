@@ -63,7 +63,7 @@ APP_MAIN/
 ├── detect_turmor_main_2.py
 │
 ├── ui/
-│   ├── __init__.py                        ← empty file, required
+│   ├── __init__.py                        
 │   └── detect_turmor_ui.py
 │
 ├── Detect_model/
